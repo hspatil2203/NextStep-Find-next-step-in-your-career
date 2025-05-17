@@ -49,6 +49,5 @@ pnpm start
 
 
 
-![Screenshot 2025-05-14 234405](https://github.com/user-attachments/assets/e455fac0-f56a-42f9-b193-ef7dff7eee87)
 
 
